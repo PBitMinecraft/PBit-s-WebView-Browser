@@ -1,0 +1,62 @@
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\WebView Browser.exe
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\WebView Browser.deps.json
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\WebView Browser.runtimeconfig.json
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\WebView Browser.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\WebView Browser.pdb
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+M:\Dev Drive\VS Code\WebView Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.csproj.AssemblyReference.cache
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\MainWindow.baml
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\MainWindow.g.cs
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\App.g.cs
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser_Content.g.cs
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser_MarkupCompile.cache
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.g.resources
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.GeneratedMSBuildEditorConfig.editorconfig
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.AssemblyInfoInputs.cache
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.AssemblyInfo.cs
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.csproj.CoreCompileInputs.cache
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView .DC082B7B.Up2Date
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.dll
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\refint\WebView Browser.dll
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.pdb
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\WebView Browser.genruntimeconfig.cache
+M:\Dev Drive\VS Code\WebView Browser\obj\Debug\net8.0-windows\ref\WebView Browser.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.csproj.AssemblyReference.cache
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\MainWindow.baml
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\MainWindow.g.cs
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\App.g.cs
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser_Content.g.cs
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser_MarkupCompile.cache
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.g.resources
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.AssemblyInfoInputs.cache
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.AssemblyInfo.cs
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.csproj.CoreCompileInputs.cache
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\WebView Browser.exe
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\WebView Browser.deps.json
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\WebView Browser.runtimeconfig.json
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\WebView Browser.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\WebView Browser.pdb
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView .DC082B7B.Up2Date
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\refint\WebView Browser.dll
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.pdb
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\WebView Browser.genruntimeconfig.cache
+\\DESKTOP-01LS342\Multi Drive\Dev Drive\Github\PBit-s-WebView-Browser\obj\Debug\net8.0-windows\ref\WebView Browser.dll

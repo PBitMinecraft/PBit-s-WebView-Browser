@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StTGzCgn1Xs=",
+  "success": true,
+  "projectFilePath": "\\\\DESKTOP-01LS342\\Multi Drive\\Dev Drive\\Github\\PBit-s-WebView-Browser\\WebView Browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peter\\.nuget\\packages\\microsoft.web.webview2\\1.0.2651.64\\microsoft.web.webview2.1.0.2651.64.nupkg.sha512"
+  ],
+  "logs": []
+}
